@@ -1,6 +1,6 @@
 # Daniel Golliher
 
-Generalist based in 📍 New York, NY. Experience working independently and in the trenches with executives.
+Generalist based in 📍 New York, NY. Experience working independently and in the trenches with senior business leaders.
 
 [Email](mailto:danielgolliher@gmail.com) / [Website](https://danielgolliher.com/) / [Twitter](https://twitter.com/danielgolliher) / [LinkedIn](https://www.linkedin.com/in/danielgolliher/)	/ [GitHub](https://github.com/danielgolliher/) / [Substack](https://golliher.substack.com)
 
