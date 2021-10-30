@@ -66,7 +66,7 @@ Review from my manager ([here](https://www.linkedin.com/in/danielgolliher/) on L
 
 ### Web development
 * Historically I've built sites on Wordpress with third party hosting, but I'm currently converting my sites to a Jekyll/GitHub/Netlify stack.
-* HTML / CSS / Sass / Jekyll / Git
+* HTML / CSS / SCSS / Jekyll / Git
 
 ### Community involvement
 * Running: Member, [Front Runners NYC](https://frny.org/)	
@@ -78,5 +78,4 @@ Review from my manager ([here](https://www.linkedin.com/in/danielgolliher/) on L
 
 ### Music 
 * Piano
-* Saxophone (acoustic and electric)	
-* See [my Instagram](https://instagram.com/danielgolliher) for some fun tunes
+* Saxophone (acoustic and electric); see [my Instagram](https://instagram.com/danielgolliher) for some fun tunes.
