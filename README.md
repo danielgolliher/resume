@@ -12,7 +12,7 @@ Generalist based in 📍 New York, NY. Experience working independently and in t
 
 For the past 16 months I’ve pursued several independent projects:
 
-* [Maximum New York](https://maximumnewyork.com/): a civics project to help increase housing stock in New York City. One early component of this project is the NYC charter map (below). I built the site with [Jekyll](https://jekyllrb.com/) and [Sass](https://sass-lang.com/); site hosting is provided by [Netlify](https://www.netlify.com/), and source hosting by [GitHub](https://github.com/danielgolliher) (private repo). 
+* [Maximum New York](https://maximumnewyork.com/): a civics project to help increase housing stock in New York City. I built the site with [Jekyll](https://jekyllrb.com/) and [Sass](https://sass-lang.com/); site hosting is provided by [Netlify](https://www.netlify.com/), and source hosting by [GitHub](https://github.com/danielgolliher) (private repo). 
 * [Graph of the New York City charter](https://golliher.substack.com/p/understanding-nycs-government): I built a graph of the NYC charter (~560 pages) to gain a better understanding of the interrelationships between different parts of the city government. I uploaded the charter to [Roam](https://roamresearch.com/), and manually tagged it with my own taxonomy. See the graph [here](https://roamresearch.com/#/app/NYC_govt/graph).  
 * [Jack & Percy Publishing](https://jackandpercypublishing.com/): a small independent publishing venture; I redesign classic books for better aesthetics and physical feel. I estimate that I’ll do about two books a year (the second is in process). 
 * [Interintellect](https://interintellect.com/): I’ve hosted six salons as an Interintellect host on a variety of topics, and I worked with another ii team member to set up the company’s current website (we migrated from Wix to Wordpress, and I built out payment and membership functionality). I will be hosting two salons in November 2021. 
@@ -30,6 +30,7 @@ Review from my manager ([here](https://www.linkedin.com/in/danielgolliher/) on L
 * Alerted partners to the various pending submission deadlines and kept them on task over project time horizons that spanned months.
 * Prepared partners for interviews with ranking publications. The interviews covered the legal market, Ropes & Gray’s practice, and the individual partner’s practice.
 * Trained other individuals in PR and business development on how to write and research ranking submissions.
+* Wrote posts for the firm's website highlighting rankings and awards won.
 * _Note_: this position was new to the firm when I accepted it, so I developed the role as I worked. See my [LinkedIn](https://www.linkedin.com/in/danielgolliher/) for even further detail. 
 
 ### **Harvard College Outreach & Marketing Coordinator** @ [Harvard Recreation](https://recreation.gocrimson.com) | _Jan 2017->May 2018_
