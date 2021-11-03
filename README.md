@@ -1,6 +1,7 @@
 # Daniel Golliher
 
-Independent Project Manager and Generalist based in 📍 New York, NY 
+Independent Project Manager and Generalist based in 📍 New York, NY   
+
 Experience working independently and in the trenches with senior business leaders. I’ve written and produced books, spun up websites, created successful marketing campaigns, and increased the public rank of one of the world’s largest law firms. I deploy varied skills from either side of the STEM line, always acquiring new ones as necessary. 
 
 [Email](mailto:danielgolliher@gmail.com) / [Website](https://danielgolliher.com/) / [Twitter](https://twitter.com/danielgolliher) / [LinkedIn](https://www.linkedin.com/in/danielgolliher/)	/ [GitHub](https://github.com/danielgolliher/) / [Substack](https://golliher.substack.com)
