@@ -68,7 +68,7 @@ Review from my manager ([here](https://www.linkedin.com/in/danielgolliher/) on L
 
 ### Community involvement
 * Running: Member, [Front Runners NYC](https://frny.org/)	
-* Volunteering: Trash collection, [OneBlock](https://oneblockuws.org/)
+* Volunteering: Trash collection, [OneBlock](https://oneblockuws.org/), [Lincoln Squared](https://lincolnsquared.nyc)
 
 ### Languages 
 * Spanish: CEFR B2
