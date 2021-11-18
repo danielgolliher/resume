@@ -64,7 +64,7 @@ Review from my manager ([here](https://www.linkedin.com/in/danielgolliher/) on L
 
 ### Web development
 * Historically I've built sites on Wordpress with third party hosting, but I'm currently converting my sites to a Jekyll/GitHub/Netlify stack.
-* HTML / CSS / SCSS / Jekyll / Git
+* HTML / CSS / SCSS / Jekyll / Git / Markdown
 
 ### Community involvement
 * Running: Member, [Front Runners NYC](https://frny.org/)	
