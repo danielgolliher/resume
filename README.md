@@ -12,7 +12,7 @@ Experience working independently and in the trenches with senior business leader
 
 ### **Sabbatical Break - Independent Projects** | _July 2020—present_
 
-For the past 16 months I’ve pursued several independent projects:
+For the past 17 months I’ve pursued several independent projects:
 
 * [Maximum New York](https://maximumnewyork.com/): a civics project to help increase housing stock in New York City. I built the site with [Jekyll](https://jekyllrb.com/) and [Sass](https://sass-lang.com/); site hosting is provided by [Netlify](https://www.netlify.com/), and source hosting by [GitHub](https://github.com/danielgolliher) (private repo). 
 * [Graph of the New York City charter](https://golliher.substack.com/p/understanding-nycs-government): I built a graph of the NYC charter (~540 pages) to gain a better understanding of the interrelationships between different parts of the city government. I uploaded the charter to [Roam](https://roamresearch.com/), and manually tagged it with my own taxonomy. See the graph [here](https://roamresearch.com/#/app/NYC_govt/graph).  
