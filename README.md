@@ -10,7 +10,7 @@ Experience working independently and in the trenches with senior business leader
 
 ## 💼 Work Experience
 
-### **Sabbatical Break - Independent Projects** | _July 2020—present_
+### **Independent Projects** | _July 2020—present_
 
 For the past 17 months I’ve pursued several independent projects:
 
@@ -42,7 +42,7 @@ Review from my manager ([here](https://www.linkedin.com/in/danielgolliher/) on L
 * Developed new standards and practices for Harvard Recreation marketing in graphic design, student communication, and departmental strategy. All are steeped in an awareness of “cargo cult marketing/communications,” adapted from Feynman’s “cargo cult science.”
 * **See [LinkedIn](https://www.linkedin.com/in/danielgolliher/) for my ~4.5 years of work with Harvard Recreation during my undergraduate years, as a manager on duty of two athletic facilities. 
 
-### **Sabbatical - Independent Projects (in Cincinnati, OH)** | _April 2016—Jan 2017_
+### **Independent Projects (in Cincinnati, OH)** | _April 2016—Jan 2017_
 
 * Worked as regular opening and closing staff at Coffee Emporium, one of Ohio’s top-ranked coffee shops.
 * Independently published [my third book](https://www.amazon.com/Dear-Wayne-County-Daniel-Golliher/dp/1539678571/)
